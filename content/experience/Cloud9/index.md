@@ -2,11 +2,17 @@
 title: 'Frontend Web Developer'
 company: 'Cloud9 ICT Solutions'
 location: 'Abuja, Nigeria'
-duration: 'Oct 2018 - Mar 2019'
+duration: 'jan 2017 - nov 2017'
 url: '#'
-date: 2018-10-01
+date: 2017-01-01
 ---
 
-- Lead a team of students on industrial training to create a Point of Sale software.
-- Developed applications for Federal Government agencies mainly with PHP, Laravel and VueJS framework.
-- Wrote documentation for existing in-house applications.
+# Cloud9.ng is a company that develop functional software, websites and mobile apps for global business.
+
+### Some of The Projects that i've worked on in Cloud9 includes:
+
+<br/>
+
+- [EPROC](https://kadppa.eprocurement.ng/)
+- [BDPP](https://kadppa.eprocurement.ng/)
+- [Cloud9 Website](https://cloud9.ng/)

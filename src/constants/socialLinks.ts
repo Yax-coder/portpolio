@@ -3,27 +3,22 @@ import { codepen, email, twitter, linkedIn, github } from '../assets/icons';
 export const socials = [
   {
     name: 'Twitter',
-    url: 'https://twitter.com/supacode',
+    url: 'https://twitter.com/Yahya_Ahmad_u',
     icon: twitter,
   },
   {
     name: 'GitHub',
-    url: 'https://github.com/supacode',
+    url: 'https://github.com/Yax-coder',
     icon: github,
   },
   {
-    name: 'CodePen',
-    url: 'https://codepen.io/supacode',
-    icon: codepen,
-  },
-  {
     name: 'LinkedIn',
-    url: 'https://linkedin.com/in/supacode',
+    url: 'https://www.linkedin.com/in/yahya-ahmad-naira/',
     icon: linkedIn,
   },
   {
     name: 'E-mail',
-    url: 'mailto:https://supacode@gmail.com',
+    url: 'mailto:ahmadyahya962@gmail.com',
     icon: email,
   },
 ];

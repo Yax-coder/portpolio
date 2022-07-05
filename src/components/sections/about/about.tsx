@@ -9,11 +9,10 @@ import './about.scss';
 
 const skills = [
   { name: 'HTML', icon: tools.html5 },
-  { name: 'CSS/SCSS', icon: tools.scss },
+  { name: 'CSS(SCSS, Styled-components, emotion)', icon: tools.scss },
   { name: 'TailwindCSS', icon: tools.tailwind },
   { name: 'Javascript', icon: tools.javascript },
   { name: 'Typescript', icon: tools.typescript },
-  { name: 'VueJS', icon: tools.vuejs },
   { name: 'React/React Native', icon: tools.react },
   { name: 'Redux', icon: tools.redux },
   { name: 'GraphQL', icon: tools.graphql },
@@ -48,10 +47,10 @@ export const About: React.FC = () => {
       <div className="about__img">
         <StaticImage
           className="about__img--img"
-          src="../../../images/supahoodie.jpeg"
+          src="../../../images/me1.png"
           alt="Maverick"
           width={600}
-          formats={['auto', 'avif', 'webp']}
+          formats={['auto', 'avif', 'webp', 'png']}
         />
       </div>
 
@@ -60,20 +59,21 @@ export const About: React.FC = () => {
           A little <span>About Me</span>
         </h2>
         <p>
-          I started Software Development in 2015 as a hobby, just out of
+          I started Software Development in 2016 as a hobby, just out of
           curiosity after reading that video games are made from computer
           programming.
         </p>
         <p>
           I&apos;ve been working professionally as a Software Developer for the
-          last ~4 years. I&apos;m currently a Frontend Engineer
-          at{' '}
-          <AppLink href="https://neighborhoods.com" clearStyles>
-            Neighborhoods.com™
+          last ~4 years. I&apos;m currently a Frontend Engineer at{' '}
+          <AppLink href="http://flexisaf.com/" clearStyles>
+            Flexisaf.com™
           </AppLink>{' '}
-          (a real estate resource company in Chicago).
+          (a company on a mission to provide the best administration, teaching
+          and learning experience to educators, parents and students through
+          innovative software and technology. ).
         </p>
-        <p>Here are some technologies I enjoy working with:</p>
+        <p>Below are some technologies I enjoy working with:</p>
         <ul className="tools">
           {skills.map((skill) => (
             <li key={skill.name} className="tools__tool">

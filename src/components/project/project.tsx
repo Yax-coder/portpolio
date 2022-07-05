@@ -73,7 +73,7 @@ export const ProjectItem: React.FC<ProjectType> = ({
         </div>
       </div>
 
-      {image && (
+      {!image && (
         <div className="project__img">
           {link ? (
             <a
@@ -86,7 +86,15 @@ export const ProjectItem: React.FC<ProjectType> = ({
               <GatsbyImage image={image} alt={title} title={title} />
             </a>
           ) : (
-            <GatsbyImage image={image} alt={title} title={title} />
+            <GatsbyImage
+              style={{
+                width: '200px',
+                height: '200px',
+              }}
+              image={image}
+              alt={title}
+              title={title}
+            />
           )}
         </div>
       )}

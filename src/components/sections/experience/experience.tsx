@@ -48,7 +48,7 @@ export const Experience: React.FC = () => {
   return (
     <section>
       <h2 className="section__title" id="experience">
-        Experience
+        Work Experience
       </h2>
 
       {experiences.map(({ node }, index) => {

@@ -29,16 +29,17 @@ export const Hero: React.FC = () => {
     <section className="hero" id="content">
       <div className="hero__left">
         <h2 className="hero__lead-text">
-          My name is <span>Maverick</span>.
+          My name is <span>Yahya Ahmad</span>.
         </h2>
         <h3 className="hero__tag-text">I code for fun, and as a job.</h3>
 
         <p className="hero__desc-text">
           <span aria-label="emoji wave">👋🏽</span> &nbsp; Hey there! I&apos;m
-          Maverick, a Software Developer with a primary focus on Frontend
+          Amad, a Software Developer with a primary focus on Frontend
           Engineering. <br />
-          Welcome to my little corner of the web, where I share notes, code
-          snippets, and resources on topics that interest me.
+          Welcome to my little corner of the web, I enjoy creating things that
+          live on the internet. and also share notes, code snippets, and
+          resources on topics that interest me.
         </p>
 
         <div className="hero__btn">
@@ -46,7 +47,7 @@ export const Hero: React.FC = () => {
             icon={chevronRight}
             text="Contact Me"
             title="Send me an email"
-            href="mailto:supacode@gmail.com"
+            href="mailto:ahmadyahya962@gmail.com"
           />
         </div>
       </div>

@@ -7,7 +7,7 @@
   padding: 3rem;
   position: relative;
   display: grid;
-  grid-template-columns: 2fr 1.5fr;
+  grid-template-columns: 1fr;
   grid-template-rows: auto;
 
   &__content {
@@ -106,7 +106,7 @@
 @media screen and (min-width: $screen-lg-min) {
   .project {
     &:nth-child(odd) {
-      grid-template-columns: 1.5fr 2fr;
+      grid-template-columns: 1fr;
 
       .project__content {
         grid-column: 2/ 3;

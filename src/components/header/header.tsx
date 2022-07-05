@@ -54,7 +54,7 @@ export const Header: React.FC = () => {
         <div className="main-header__inner">
           <h1 className="main-header__logo">
             <AppLink href="/" clearStyles>
-              Supacode
+              Yahya
             </AppLink>
           </h1>
 
