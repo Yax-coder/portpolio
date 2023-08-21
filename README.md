@@ -1,6 +1,6 @@
-# supacode.dev
+# yahay.me
 
-https://supacode.dev
+https://yahay.me
 
 ## Environment Variables
 
