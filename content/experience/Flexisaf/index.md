@@ -13,7 +13,7 @@ date: 2021-02-01
 
 <br/>
 
-- [Safsms](https://support.safsims.com/support/login)
+- [VirtualSIMS](https://console.virtualsims.app/)
 - [Neco](https://result.neco.gov.ng/login)
 - [Safsms](https://safsims.webflow.io/)
 - [Safapply](https://applicant.safapply.com/)

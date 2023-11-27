@@ -1,7 +1,7 @@
 ---
 index: 1
-title: 'VirtulaSIMS'
-link: https://virtualsims.app/
+title: 'SAFRecords'
+link: https://safrecords.com/
 tools:
   - React
   - In-House-Flexibull-Library
@@ -13,7 +13,9 @@ company: Flexisaf
 image: safapply.png
 ---
 
-VirtualSIMS is a live lesson teaching and administrative platform that enables flexible teaching and learning beyond boundaries in a convenient  way.
+With SAFRecords you can effectively manage your institutions’ records with the all-in-one school management system..
+
+Process transcripts, issue results and certificates, manage student enrollment, hostel allocation, compute results & CGPA, receive payments, and perform other administrative tasks – all in a secure & efficient manner.
 
 <br />
 
