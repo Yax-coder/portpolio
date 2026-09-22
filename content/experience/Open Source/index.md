@@ -4,7 +4,7 @@ company: ''
 location: 'Abuja'
 duration: '2015 - present'
 url: '#'
-date: 2015
+date: 2015-01-01
 ---
 
 <br />

@@ -31,14 +31,20 @@ export const Hero: React.FC = () => {
         <h2 className="hero__lead-text">
           My name is <span>Yahya Ahmad</span>.
         </h2>
-        <h3 className="hero__tag-text">I code for fun, and as a job.</h3>
+        <h3 className="hero__tag-text">
+          Chief Technology Officer &amp; Co-Founder, Lellall.
+        </h3>
 
         <p className="hero__desc-text">
           <span aria-label="emoji wave">👋🏽</span> &nbsp; Hey there! I&apos;m
-          Amad, a Software Developer with a primary focus on Frontend
-          Engineering. <br />
+          Yahya, a Software Engineer and Engineering Leader with 8+ years of
+          experience, currently building{' '}
+          <AppLink href="https://lellall.com" clearStyles>
+            Lellall
+          </AppLink>
+          , a B2B procurement platform for hospitality businesses. <br />
           Welcome to my little corner of the web, I enjoy creating things that
-          live on the internet. and also share notes, code snippets, and
+          live on the internet, and also share notes, code snippets, and
           resources on topics that interest me.
         </p>
 
@@ -47,7 +53,7 @@ export const Hero: React.FC = () => {
             icon={chevronRight}
             text="Contact Me"
             title="Send me an email"
-            href="mailto:ahmadyahya962@gmail.com"
+            href="mailto:yahay.me@gmail.com"
           />
         </div>
       </div>
